@@ -70,3 +70,8 @@ original. Isso desativa a validação do certificado TLS do servidor. Para uso
 em produção, prefira validar o certificado/autoridade certificadora.
 
 Não compartilhe arquivos contendo SSID, senha Wi-Fi ou IDs de implantação.
+
+# ATENÇÃO
+##### Esse projeto foi feito com grande auxílio de Inteligência Artificial.  
+##### Fiz com a intenção de usar a placa ESP32-Cam para um propósito prático 
+##### e pretendo me aprofundar mais em C++ e microcontroladores futuramente.       
